@@ -63,7 +63,7 @@ You can find more examples of usage in the unit tests inside the project.
 
 ## Installation
 
-Download the latest release zip. Place .jar file(s) in the `<project>/app/libs` folder (in case of Android project).
+Download the latest release files. Place .jar file(s) in the `<project>/app/libs` folder (in case of Android project).
 Add dependensies to the `build.gradle` script of your app module.
 ```gradle
 dependencies {
